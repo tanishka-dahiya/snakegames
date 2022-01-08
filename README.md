@@ -7,7 +7,7 @@ basic snake game with HTML, css and javascript.
 ## Usage
 This Project usesHTML, css and javascript.
 ## Try this out:
-https://chat-app26.herokuapp.com/
+https://snakegame1997.herokuapp.com/
 
 ## Demo
 
